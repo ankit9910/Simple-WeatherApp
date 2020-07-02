@@ -1,0 +1,38 @@
+body{
+	 
+}
+.container{
+	text-align: center;
+	border:5px solid black;
+	height: 500px;
+}
+.app-title{
+	font-weight: bold;
+	font-size: 2.5rem;
+	background-color: black;
+	color: white;
+}
+.notification{
+	background-color: aqua;
+}
+.weather-container{
+	border:2px solid blue;
+	margin-top: 40px;
+	margin-left: 50px;
+	margin-right: 50px;
+	height:350px;
+}
+
+.temp-value{
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+.temp-desc{
+	font-weight: bold;
+	font-size: 1.2rem;	
+}
+.location{
+	font-weight: bold;
+	font-size: 1.2rem;	
+}
+
